@@ -85,3 +85,4 @@ D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Session 1\bin\Debug\net6.0\r
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Session 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Session 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Session 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Session 1\obj\Debug\net6.0\Store.API.sourcelink.json

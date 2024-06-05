@@ -10,3 +10,4 @@ D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Data\obj\Debug\net6.0\
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Data\obj\Debug\net6.0\Store.Data.pdb
 D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+d:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Data\obj\Debug\net6.0\Store.Data.sourcelink.json

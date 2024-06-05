@@ -30,6 +30,10 @@ namespace Session_1.Controllers
 
 		}
 		[HttpGet]
+		[AllowAnonymous]
+		public  ActionResult<string> SayHello ()
+		=> Ok("My Hello Test");
+		[HttpGet]
 		public async Task<ActionResult<IReadOnlyList<OrderResultDto>>> GetAllOrdersAsync()
 		{
 			var email = User.FindFirstValue(ClaimTypes.Email);

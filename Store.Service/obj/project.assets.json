@@ -3081,11 +3081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Store.Service.csproj",
+      "projectUniqueName": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Store.Service.csproj",
       "projectName": "Store.Service",
-      "projectPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Store.Service.csproj",
+      "projectPath": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Store.Service.csproj",
       "packagesPath": "C:\\Users\\Youssif\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\obj\\",
+      "outputPath": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3102,8 +3102,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Store.Repository.csproj": {
-              "projectPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Store.Repository.csproj"
+            "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Store.Repository.csproj": {
+              "projectPath": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Store.Repository.csproj"
             }
           }
         }

@@ -9,7 +9,6 @@ namespace Store.Repository.Interfaces
 {
     public interface IUnitOfWork
     {
-
         IGenericRepository<TEntity, TKey> Reposirory<TEntity, TKey>() where TEntity : BaseEntity<TKey>;
 
         Task<int> CompleteAsync();
