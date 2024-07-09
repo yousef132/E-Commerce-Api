@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\specification\\specificationevaluater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\specificationevaluater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\specification\\product\\productswithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\productswithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.service\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\specification\\product\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\specification\\product\\productswithfiltercountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\product\\productswithfiltercountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F15E6C-7979-4D5F-9FF0-E1A69467598A}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.service\\handleresponses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\handleresponses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\store.service\\handleresponses\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C86B6F-B7F6-44EC-8D8E-E7E2DEF0BB99}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\handleresponses\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\session 1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|solutionrelative:session 1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\session 1\\extentions\\applicationservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|solutionrelative:session 1\\extentions\\applicationservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\session 1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|solutionrelative:session 1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|d:\\.net\\route\\ahmed khalid\\api\\session 01\\session 1\\session 1\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ADF400-57E4-47D6-87DE-9A26174A9552}|Session 1\\Store.API.csproj|solutionrelative:session 1\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Session 1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Session 1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:07:00.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:59:42.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsWithSpecifications.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductsWithSpecifications.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProductsWithSpecifications.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductsWithSpecifications.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProductsWithSpecifications.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:00:01.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsWithFilterCountSpecifications.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductsWithFilterCountSpecifications.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProductsWithFilterCountSpecifications.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductsWithFilterCountSpecifications.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProductsWithFilterCountSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:59:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:50:15.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\Product\\ProductSpecification.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\Product\\ProductSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\Product\\ProductSpecification.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:46:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\BaseSpecification.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\BaseSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\BaseSpecification.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:39:23.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecificationEvaluater.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\SpecificationEvaluater.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\SpecificationEvaluater.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Repository\\Specification\\SpecificationEvaluater.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\SpecificationEvaluater.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:40:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\OrderService\\OrderService.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwGQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:00:10.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\HandleResponses\\CustomException.cs",
+              "RelativeDocumentMoniker": "Store.Service\\HandleResponses\\CustomException.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\HandleResponses\\CustomException.cs",
+              "RelativeToolTip": "Store.Service\\HandleResponses\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:59:18.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\HandleResponses\\Response.cs",
+              "RelativeDocumentMoniker": "Store.Service\\HandleResponses\\Response.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Service\\HandleResponses\\Response.cs",
+              "RelativeToolTip": "Store.Service\\HandleResponses\\Response.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:59:07.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServicesExtentions.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Extentions\\ApplicationServicesExtentions.cs",
+              "RelativeDocumentMoniker": "Session 1\\Extentions\\ApplicationServicesExtentions.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Extentions\\ApplicationServicesExtentions.cs",
+              "RelativeToolTip": "Session 1\\Extentions\\ApplicationServicesExtentions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawCwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:58:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Session 1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Session 1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:55:38.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Session 1\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Session 1\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Session 1\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:50:14.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

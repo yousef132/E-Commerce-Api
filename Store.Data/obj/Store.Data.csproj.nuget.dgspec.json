@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj": {}
+    "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj": {}
   },
   "projects": {
-    "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj": {
+    "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj",
+        "projectPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\Youssif\\.nuget\\packages\\",
-        "outputPath": "d:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\obj\\",
+        "outputPath": "D:\\.net\\ROUTE\\Ahmed Khalid\\API\\Session 01\\Session 1\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youssif\\AppData\\Roaming\\NuGet\\NuGet.Config",

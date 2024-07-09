@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Store.Repository
-build_property.ProjectDir = d:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Repository\
+build_property.ProjectDir = D:\.net\ROUTE\Ahmed Khalid\API\Session 01\Session 1\Store.Repository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

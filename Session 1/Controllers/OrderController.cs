@@ -38,7 +38,6 @@ namespace Session_1.Controllers
 		{
 			var email = User.FindFirstValue(ClaimTypes.Email);
 			var orders = await orderService.GetAllOrdersForUserAsync(email);
-
 			return Ok(orders);
 		}
 		[HttpGet]
@@ -52,8 +51,5 @@ namespace Session_1.Controllers
 		[HttpGet]
 		public async Task<ActionResult<IReadOnlyList<DeliveryMethod>>> GetAllDeliveryMethodsAsync()
 			=> Ok(await orderService.GetAllDeliveryMethodsAsync());
-
-
-
 	}
 }
